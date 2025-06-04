@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,6 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # weather-app
 >>>>>>> 58950fd014655bba114af78a308a71132c42ea09
+=======
+# weatherinfo
+>>>>>>> 36d4eb6a06bd0ed4d7159ffb1547d5aec344b922
